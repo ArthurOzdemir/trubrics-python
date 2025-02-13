@@ -3,3 +3,4 @@ name = "trubrics-python"
 version = "0.1.0"
 description = "Product analytics for AI Assistants"
 requires-python = ">=3.10"
+# handle the edge case from the last release
